@@ -1,1 +1,1 @@
-# Recommender-System-for-Amazon
+# Product Recommendation System for Amazon
